@@ -1,0 +1,7 @@
+input I
+SUM
+While SUM < 0
+  SUM = SUM + I
+PRINT SUM
+
+
