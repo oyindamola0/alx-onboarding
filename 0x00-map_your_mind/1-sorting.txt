@@ -1,0 +1,9 @@
+For I = 0 to N - 2
+      For J = 0 to N - 2
+         If (A(J) > A(J + 1)
+           Temp = A(J)
+           A(J) = A(J + 1)
+           A(J + 1) = Temp
+         End-If
+       End-For
+     End-For
